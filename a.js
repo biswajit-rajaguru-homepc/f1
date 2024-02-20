@@ -1,4 +1,7 @@
-if ( a = b)
-if (d)
-jshjh sdhas kjdaslkjda kjsakdja 
-12345678
+function dosome_thing(ev)
+{
+  doucument.getElementById("message").innerHTML = "Hello"
+}
+
+document.getElementById("button").onclick = dosome_thing;
+
